@@ -1,0 +1,9 @@
+flash-attn
+byaldi
+accelerate
+qwen_vl_utils
+pdf2image
+groq
+transformers @ git+https://github.com/huggingface/transformers
+PyPDF2
+openparse[ml]
