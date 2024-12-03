@@ -10,7 +10,7 @@
 
   
 
-This repository contains two notebooks that showcase advanced methods for analyzing and extracting insights from PDF documents. The notebooks utilize a cutting-edge Multimodal Retrieval-Augmented Generation (RAG) system capable of :
+This repository contains two notebooks that showcase advanced methods for analyzing and extracting insights from PDF documents. These notebooks utilize a cutting-edge Multimodal Retrieval-Augmented Generation (RAG) system capable of :
 
   
 
@@ -38,7 +38,7 @@ This repository contains two notebooks that showcase advanced methods for analyz
 
   
 
-These implementations are designed to handle multimodal inputs and provide enhanced capabilities for document understanding. Notebook 1 focuses on parsing and structured data extraction, while Notebook 2 emphasizes reasoning techniques for more complex and iterative analyses of multimodal documents.
+These implementations are designed to handle multimodal inputs and provide enhanced capabilities for document understanding. Notebook 2 focuses on parsing and structured data extraction, while Notebook 1 emphasizes reasoning techniques for more complex and iterative analyses of multimodal documents.
 
  
 
@@ -46,7 +46,7 @@ These implementations are designed to handle multimodal inputs and provide enhan
 
   
 
-This notebook demonstrates a robust document analysis pipeline leveraging the **ColQwen** model, designed for efficient multimodal reasoning and information retrieval from complex documents. It is particularly suited for technical, financial, or analytical documents requiring iterative refinement of responses.
+This notebook demonstrates a robust document analysis pipeline leveraging **ColQwen** model, designed for efficient multimodal information retrieval from complex documents. It is particularly suited for technical, financial, or analytical documents requiring iterative refinement of responses.
 
 
 ## System Pipeline
